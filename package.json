@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "@e22m4u/js-debug": "~0.1.6",
-    "@e22m4u/js-format": "~0.1.0",
-    "@e22m4u/js-service": "~0.3.0",
+    "@e22m4u/js-format": "~0.1.8",
+    "@e22m4u/js-service": "~0.3.2",
     "mime-types": "~3.0.1"
   },
   "devDependencies": {
